@@ -24,7 +24,7 @@ btnEncriptar.addEventListener("click", () => {
   cardContainer.appendChild(card);
   let cardBody = document.querySelector(".card-body");
   cardBody.style.justifyContent = "space-between";
-  // Cuando se hace click en el boton de copiar se copia el texto encriptado
+  // Al dar click en el boton copiar, se copia el texto encriptado
   card.querySelector(".button-copy").addEventListener("click", () => {
     let texto = card.querySelector("p").innerText;
     navigator.clipboard.writeText(texto);
