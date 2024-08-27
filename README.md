@@ -23,4 +23,5 @@ para desencriptar sigue estos sencillos pasos:
 2.- Da click en el botón de "Desencriptar" 
 3.- El texto se desencripta y podras leer el mensaje original
 
-Para usar el encriptador de texto solo da click en este enlace: 
+Para usar el encriptador de texto solo da click en este enlace:  https://edabris.github.io/Challenge---Encriptador/
+
